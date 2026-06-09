@@ -1,2 +1,3 @@
 # Traffic-light-for-pedestrians
-Help Pedestrian use traffic light to walk
+My first personal Arduino Project.
+- I though of this idea of create the traffic light by enhancing a 7 segment display
